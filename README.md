@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🧙‍♀️Fullstack focusing on Front End | Sometimes I write code 👩‍💻, sometimes I write words ✍️
 <!--
 **mctn6/mctn6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
