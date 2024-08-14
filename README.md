@@ -12,7 +12,7 @@ Back-End:
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" /><img height="32" width="32" src="https://cdn.simpleicons.org/.net" /><img height="32" width="32" src="https://cdn.simpleicons.org/go" /><img height="32" width="32" src="https://cdn.simpleicons.org/php" /><img height="32" width="32" src="https://cdn.simpleicons.org/laravel" />
 
-Databases: 
+Database: 
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" /> <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /> <img height="32" width="32" src="https://cdn.simpleicons.org/graphql" /> <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />  <img height="32" width="32" src="https://cdn.simpleicons.org/supabase" />
 
