@@ -1,6 +1,6 @@
 ## Hi, I'm Michelle 👋
 
-I’m a Full-Stack Developer specializing in front-end development. I enjoy building intuitive and efficient web applications and am always excited to collaborate on interesting remote projects.
+I’m a remote Full-Stack Developer specializing in front-end development. I enjoy building intuitive and efficient web applications and am always excited to collaborate on interesting remote projects.
 
 🔧 Skills
 
